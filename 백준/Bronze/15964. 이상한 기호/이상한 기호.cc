@@ -8,8 +8,8 @@ int main()
     ios::sync_with_stdio(0);
     cin.tie(0);
 
-    int a, b;
-    int sum;
+    long a, b;
+    long sum;
 
     cin >> a >> b;
 
